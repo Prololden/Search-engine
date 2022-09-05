@@ -1,0 +1,14 @@
+{
+  "config": {
+    "name": "SearchEngine",
+    "version": "0.1",
+    "max_responses": 7
+  },
+  "files": [
+    "resources/text01.txt",
+    "resources/text02.txt",
+    "resources/text03.txt",
+    "resources/text04.txt",
+    "resources/text05.txt"
+  ]
+}
